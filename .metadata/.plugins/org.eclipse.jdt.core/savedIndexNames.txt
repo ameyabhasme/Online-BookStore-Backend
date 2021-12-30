@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+I:\WebDevlopment\Angular Development\BookStoreProject\Book-Store-SpringBoot\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
